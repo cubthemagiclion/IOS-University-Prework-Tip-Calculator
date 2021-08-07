@@ -29,8 +29,8 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 
-<img src='https://imgur.com/I5lAA39/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+<img src='https://imgur.com/I5lAA39.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![YAP](http://i.imgur.com/dNYswmI.gif)
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/IBp9tcj" data-context="false" ><a href="//imgur.com/a/IBp9tcj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src="https://imgur.com/a/IBp9tcj"/>
 
