@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 <blockquote class="imgur-embed-pub" lang="en" data-id="a/IBp9tcj" data-context="false" ><a href="//imgur.com/a/IBp9tcj"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img src="https://imgur.com/a/IBp9tcj"/>
 
-!(image)[https://imgur.com/a/IBp9tcj]
+!(image)[https://imgur.com/I5lAA39]
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
