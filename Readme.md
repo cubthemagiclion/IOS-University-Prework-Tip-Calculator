@@ -27,18 +27,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
+<img src='https://imgur.com/I5lAA39.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<video autoplay>
-
-  <source src="Tip-Calculator.mp4" type="video/mp4">
-
-</video>
-
-Video created with Xcode IOS Simulator.
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+One of the challenges I encountered was getting used to use Xcode. I did not use it before and sometimes I found it difficult to show the windows I wanted it to show, etc.
+Another difficulty I encountered was actually using Github. I tried several methods and went through some StackOverFlow posts in order to figure out how to include the GIF directly under this Readme.md file.
 
 ## License
 
